@@ -26,8 +26,6 @@ float a_vel = 0.02f;
 int kx = 3;
 int ky = 4;
 
-PGraphics canvas;
-
 public void setup() {
 	
 	background(0xff1e1f26);
